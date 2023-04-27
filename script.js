@@ -16,6 +16,9 @@ function initApp() {
 function hej() {
   console.log("HejmedDig");
   console.log("HejmedDig2");
+  console.log("Hej1");
+  console.log("Hej2");
+  console.log("Hej3");
 }
 console.log(commit1);
 console.log(commit2);
