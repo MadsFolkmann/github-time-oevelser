@@ -4,5 +4,6 @@ window.addEventListener("load", initApp);
 
 function initApp() {
   console.log("Hola");
-  console.log("Mayday mayday");
+  console.log("hvad så drenge!");
+  console.log("HElLO");
 }
