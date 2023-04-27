@@ -8,4 +8,5 @@ function initApp() {
   console.log("HElLO");
   console.log("hej gutter")
   console.log("Hey")
+  console.log("Hey")
 }
