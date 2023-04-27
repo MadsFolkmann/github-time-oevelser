@@ -9,4 +9,11 @@ function initApp() {
   console.log("hej gutter")
   console.log("Hey")
   console.log("Hey")
+
+  hej();
+}
+
+function hej() {
+  console.log("HejmedDig");
+  console.log("HejmedDig2");
 }
