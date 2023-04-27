@@ -18,3 +18,4 @@ function hej() {
   console.log("HejmedDig2");
 }
 console.log(commit1);
+console.log(commit2);
